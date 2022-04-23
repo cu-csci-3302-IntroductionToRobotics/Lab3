@@ -1,4 +1,4 @@
-#VRML_SIM R2021b utf8
+#VRML_SIM R2021a utf8
 WorldInfo {
   info [
     ""
@@ -1990,7 +1990,8 @@ DEF TREES Transform {
     }
   ]
 }
-TurtleBot3Burger {
+DEF MY_ROBOT TurtleBot3Burger {
+  hidden rotation_10 -0.004304014654133182 -0.9999907376856321 -8.958364068602528e-07 0.000416283290558086
   translation 3.28854 0 8.71861
   rotation 0 1 0 -1.5708
   controller "lab3"
