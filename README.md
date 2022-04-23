@@ -1,6 +1,6 @@
-# Lab1
+# Lab3
 
-State machine based Reactive Behavior
+Inverse Kinematics
 
 ## How to build your project
  
